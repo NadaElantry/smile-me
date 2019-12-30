@@ -1,0 +1,17 @@
+language used : javascript
+liberary used : pupeteer
+1.pupeteer liberary
+
+installation
+1.create node file
+2.open CMD
+3.run npm install pupeteer
+
+Jest liberary
+installation
+1.open CMD
+2.run npm install jest
+
+how to run :
+1. open CMD
+2. run jest name of file 
